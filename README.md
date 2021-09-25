@@ -4,7 +4,7 @@ Real Time Bus Tracker
 
 In this project => repository, I use skills learned in JavaScript in order to move a Pacman figure from one side of the page to another, without running off the webpage. Herein the checkwalls() function is administered to keep the Pacman on the screen. As well as 4 jpg uploads accounting for the switch in direction back and forth etc.
 
-How to Run: Download the 06_real_time_bus_tracker.html file to your hardrive, drag/grop in a blank web browser, then press ctrl J to access your browsers console.  After. download the 05_map_animation.html file herein to your CPU harddrive then drag/drop them from your finder to a blank page web browser.
+How to Run: Download the 06_real_time_bus_tracker.html file to your hardrive, drag/grop in a blank web browser, then press ctrl J to access your browsers console.  After, download the 05_map_animation.html file herein to your CPU harddrive then drag/drop the file from your finder to a blank page web browser.
 
 Roadmap of future improvements: I am going to work on expanding the bus stop locations in real time with multiple bus trackers that move seperately simulatenously within the same map box map that both start and finish in seperate locations in progression.  TY
 

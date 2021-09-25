@@ -6,7 +6,7 @@ In this project => repository, I use skills learned in JavaScript in order to mo
 
 How to Run: Download the 06_real_time_bus_tracker.html as well as 05_map_animation.html file(s) herein to your CPU harddrive then drag/drop them from your finder to a blank page web browser.
 
-Roadmap of future improvements: I am going to work on gaining the Pacmans ability to move up and down (as well as side to side) in progression. TY
+Roadmap of future improvements: I am going to work on expanding the bus stop locations in real time with multiple bus trackers that move seperately simulatenously within the same map box map that both start and finish in seperate locations in progression.  TY
 
 License information: "Professional Certificate in Coding: Full Stack Development with MERN.
 

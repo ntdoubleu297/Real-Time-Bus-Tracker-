@@ -2,7 +2,7 @@
 Real Time Bus Tracker 
 
 
-In this project => repository, I use skills learned in JavaScript in order to move a Pacman figure from one side of the page to another, without running off the webpage. Herein the checkwalls() function is administered to keep the Pacman on the screen. As well as 4 jpg uploads accounting for the switch in direction back and forth etc.
+In this project => repository, I use skills learned in JavaScript in order to access real time bus tracker information from the MBTA site URL to VS code using the async function() as well as  const variable syntax updating real time every 15 seconds (using the setTimeout() feature).   I then used my own mapbox access token to portray a map demonstrating busStops tracked via marker per 1 second using the move() function as well as the setTimeout feature in JavaScript.   
 
 How to Run: Download the 06_real_time_bus_tracker.html file to your hardrive, drag/grop in a blank web browser, then press ctrl J to access your browsers console.  After, download the 05_map_animation.html file herein to your CPU harddrive then drag/drop the file from your finder to a blank page web browser.
 
